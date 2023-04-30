@@ -1,2 +1,5 @@
-public class Niedostateczny {
+public class Niedostateczny extends Oceny{
+    public Niedostateczny (){
+        super("Niedostateczny");
+    }
 }
